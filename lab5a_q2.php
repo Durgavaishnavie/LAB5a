@@ -2,6 +2,11 @@
 <html lang="en">
 <head>
     <title>Lab 5a Q2</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+    </style>
 </head>
 <body>
     <?php
