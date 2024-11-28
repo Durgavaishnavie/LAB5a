@@ -7,10 +7,10 @@
 
  <?php
  $name = "Durgavaishnavie a/p Jeyasangar";
- $matricnumber = "CI230113"
- $course = "Bachelor of Computer Science (Web Technology) With Honours"
- $yearofstudy = "Year 2"
- $address = "No 17V, Jalan Seroja 3, Taman Pusing Baru, 31550 Pusing, Perak"
+ $matricnumber = "CI230113";
+ $course = "Bachelor of Computer Science (Web Technology) With Honours";
+ $yearofstudy = "Year 2";
+ $address = "No 17V, Jalan Seroja 3, Taman Pusing Baru, 31550 Pusing, Perak";
  ?>
 
  <table>
