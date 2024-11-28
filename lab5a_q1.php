@@ -16,7 +16,7 @@
 </head>
 <body>
     <?php
-    $name = "Durgavaishnavie a/p Jeyasangar";
+    $name = "Durgavaishnavie A/P Jeyasangar";
     $matricNumber = "CI230113";
     $course = "Bachelor of Computer Science (Web Technology) With Honours";
     $yearOfStudy = "Year 2";
