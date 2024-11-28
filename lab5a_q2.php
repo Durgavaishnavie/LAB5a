@@ -4,12 +4,7 @@
     <title>Lab 5a Q2</title>
     <style>
         table {
-            border-collapse: collapse;
-        }
-        table, th, td {
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
+            border-collapse: separate;
         }
     </style>
 </head>
