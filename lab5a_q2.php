@@ -29,7 +29,7 @@
     ];
     ?>
 
-    <table border="1" cellpadding="10" cellspacing="0">
+    <table>
         <tr>
             <th>Name</th>
             <th>Program</th>
